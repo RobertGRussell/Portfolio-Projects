@@ -1,6 +1,6 @@
 ### UPENN CYBERSECURITY PROJECTS
 
-[Building a Sec Monitoring Environment w/ Splunk]( ) </br>
+[Building a Sec Monitoring Environment w/ Splunk](https://github.com/RobertGRussell/Portfolio-Projects/blob/main/SIEM%20Environment%20Simulation.pdf) </br>
 </br>
 I built a SIEM environment through Splunk then performed the following skills:
 <ul>
