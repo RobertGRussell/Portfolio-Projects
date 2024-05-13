@@ -21,7 +21,7 @@ This project's goal was to simulate working with a client to audit their cyberse
   <ul>
     <li> Anomalies and Events</li>
     <li> Security Continuous Montioring</li>
-    <li> DEtection Process</li>
+    <li> Detection Process</li>
     <li> Business Environment</li>
     <li> Governance</li>
     <li> Risk Assessment</li>
